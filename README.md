@@ -35,7 +35,7 @@ An educational project aimed at revising and applying fundamental Object-Oriente
 
 ## ⚙️ Requirements
 - JDK 8 or higher
-- Any Java development environment (preferably IntelliJ or Eclipse)
+- Any Java development environment (preferably IntelliJ , Netbeans or Eclipse )
 
 ## 🚀 How to Run
 1. Clone the repository:
